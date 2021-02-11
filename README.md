@@ -36,7 +36,7 @@ for that you have to run these two commands in cmd :
 ------------
 
 ## Instructions :
-1.  install modules written in [installation](https://github.com/alitourani/computational-intelligence-class-9901/tree/master/G01-Genetic-Algorithm-Flappy-Bird#Installation-) section
+1.  install modules written in [installation](https://github.com/saharfk/flappy-bird-/blob/main/README.md#installation) section
 2. Simply run flappy_bird.py and watch an AI start training itself to play the game of flappy bird!
 
 ------------
